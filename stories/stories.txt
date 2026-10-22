@@ -1,0 +1,25 @@
+Boat Project Stories:
+
+	Mr. Family Stories:
+		As Mr. Family, I want to view and compare seat prices, see which seats are available next to each other, and know the total cost before purchasing tickets so that I can find four seats together, give my children a good experience, and keep the cost of the boat trip within my family's budget.
+		As a parent planning a family boat trip, I want to see available seat combinations and any discounts for purchasing multiple tickets so that I can choose comfortable seats for my wife and children while avoiding unnecessary costs and staying within my budget.
+		As a parent purchasing boat tickets, I want to see the total price of my family's tickets before checking out and be able to change our seat selections if the cost is too high so that I can find four seats together, keep my children happy, and avoid spending more than I can afford.
+
+
+	Budgeter Stories:
+		As a budgeter, I want to be able to see all the prices of the seats when I'm selecting them so i can manage my spending.
+		As a budgeter, I want to be able to add all of my purchases into one cart to make the spending process easier.
+		As a budgeter, I want to see if there are any package deals that would make purchasing multiple tickets and seats at once potentially cheaper.
+
+
+	Tour Director:
+		As a tour director, I need to see the percentage of tickets sold for each upcoming tour.
+		As a tour director, I need to be able to cancel an upcoming tour.
+		As a tour director, I need the system to notify customers who purchased tickets that the tour is canceled.
+
+	
+	Boat Company Owner/CEO:
+		As an owner, I want to see how much I am profiting from each tour. 
+		As an owner, I want to keep track of what seats are being purchased more frequently. 
+		As an owner, I only want my boats to run at a minimum 50% capacity.
+		As an owner, I want to be able to adjust the rates of my tickets with window seats being a percentage more than my aisle seats. 
