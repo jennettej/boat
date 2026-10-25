@@ -1,0 +1,39 @@
+Mr. Family portfolio + scenario - Ilya Kolesnikov
+
+
+~Mathildus Ibeprofen~
+Age: 38
+Occupation: Office worker
+Family: Married, two children
+
+Background
+Mr. Family is a 38-year-old office worker who lives with his wife and two children. He works full-time and enjoys spending his weekends with his family. Since he has to manage his family's expenses, he always tries to find affordable activities that everyone can enjoy.
+Goals
+Buy affordable boat tickets for his entire family.
+Find four seats next to each other.
+Give his children a good experience during the trip.
+Avoid spending unnecessary money.
+Frustrations
+Expensive tickets for family activities.
+Difficulty finding seats together.
+Additional costs that increase the total price.
+Having to choose between comfort and saving money.
+Needs
+Mr. Family needs a simple way to compare seat prices, find seats together, and choose the best option for his family without going over his budget
+
+
+
+
+
+
+
+
+
+
+Scenario
+Mr. Family wants to take his wife and two children on a boat trip this weekend. He wants everyone to have a good time, but he also wants to save money. He needs to buy four tickets and find seats where his family can sit together.
+When he starts choosing seats, he sees that they have different prices. Window seats cost $11, aisle seats cost $10, and middle seats cost $9. One of his children wants to sit next to the window to enjoy the view. Mr. Family wants to make his child happy, but he does not want to spend too much money.
+He finds four seats next to each other: one window seat, two middle seats, and one aisle seat. The total price is $39. He decides to buy these tickets because his family can sit together, his child gets a window seat, and he can still save some money. Mr. Family is happy with his choice and looks forward to the boat trip.
+
+
+
