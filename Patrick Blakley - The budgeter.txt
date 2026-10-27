@@ -1,0 +1,13 @@
+Patrick Blakley - The budgeter
+
+
+Patrick is a man with a dead end job that doesn't pay too well. Despite his circumstances he manages to scrape up money to enjoy himself. Patrick spots an ad for boat tours and thinks it could be a fun time. He wants to be able to bring some friends along if he can, but he still has bills to pay. He cant go spending his whole paycheck on boat tickets, Patrick uses the shopping cart to see his total cost to make sure he doesn't go over budget, since Patrick has a tight budget he wants to be able to see the most affordable options he has while still being able to pay rent.
+
+As a budgeter, I want to be able to see all the prices of the seats when I'm selecting them so i can manage my spending.
+
+As a budgeter, I want to be able to add all of my purchases into one cart to make the spending process easier.
+
+As a budgeter, I want to see if there are any package deals that would make purchasing multiple tickets and seats at once potentially cheaper.
+
+
+As a budgeter, I want to see a total price when managing my cart so I make sure I don't go over budget.
