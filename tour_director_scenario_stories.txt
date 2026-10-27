@@ -1,0 +1,34 @@
+Persona: Dana, Tour Director
+
+~Dana Larpsson~
+Age: 43
+Occupation: Boat Tour Director
+
+Background:
+Dana is a 43-year-old tour director for Boat Inc. She is very committed to providing the best possible experience
+for the customers that she guides on her tours. 
+Goals
+* Lead succesful tours
+* Monitor ticket sales
+Frustrations
+* Difficulties with monitoring ticket sales on other software
+* Convoluted methods to cancel tours that don't have enough ticket sales
+
+Scenario:
+
+Dana is the tour director for a boat tour company. Each tour needs at least half of its seats sold to cover costs, 
+so she has to decide ahead of time whether to run it or cancel it. The night before a scheduled sunset cruise, 
+she opens the company’s tour management system and selects that tour from the list of upcoming departures. 
+The system shows how many tickets have been sold, how many seats the boat holds, and the percentage sold. Dana sees 
+that 42 of the boat’s 100 seats are sold, which is 42%. That is below the 50% minimum, so the tour is flagged as at 
+risk of cancellation. Dana confirms the cancellation, and the system marks the tour as canceled. It then notifies the
+customers who bought tickets and starts their refunds or offers them another date. If the tour had been at 50% or 
+higher, the system would show it as confirmed and Dana would take no action.
+
+Stories:
+
+As a tour director, I need to see the percentage of tickets sold for each upcoming tour.
+
+As a tour director, I need to be able to cancel an upcoming tour.
+
+As a tour director, I need the system to notify customers who purchased tickets that the tour is canceled.
