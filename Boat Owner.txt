@@ -1,0 +1,15 @@
+Boat Owner
+Bobby Oats - Boat Owner
+
+Bobby is an established tour boat franchise owner. He spends his days looking for better ways to run his business and make more money without hurting his home town. He knows his tour is popular with the local and tourists alike and wants to market a fair price. 
+
+As an owner, I want to see how much I am profiting from each tour. 
+
+As an owner, I want to keep track of what seats are being purchased more frequently. 
+
+As an owner, I only want my boats to run at a minimum 50% capacity.
+
+As an owner, I want to be able to adjust the rates of my tickets with window seats being a percentage more than my aisle seats. 
+
+Scenario:
+Bobby wants to set out another boat in the harbor for customers to take tours on. He’s hired a tour guide and instructed them to only start the tour if 50% or more tickets have been sold. He’s put advertisements out and customers are starting to buy tickets. Now he is waiting to see his total revenue from the new boat each trip.
