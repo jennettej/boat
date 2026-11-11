@@ -1,0 +1,9 @@
+Boat Project Backlog:
+- Business/Data Handling modules for code
+- Collecting all personas and stories into one file
+- Writing tests from code
+- Possibly building a website
+- Main python draft (Done)
+- Personas (Done)
+- Stories (Done)
+- Scenarios (Done)
